@@ -132,7 +132,7 @@ h2 img{display: block;}
 .page5 .app{width: 1200px; height: 800px; position: absolute; left: 0; top: 0; right: 0; bottom: 0; margin:auto;}
 .page5 .app h3{height: 100px; text-align: center;}
 .page5 .app h3 img{margin-top: 12px;}
-.appBox{width: 1240px; margin:0 auto; margin-top: 60px; overflow: hidden;}
+.appBox{width: 1240px; margin:0 auto; margin-top: 160px; overflow: hidden;}
 .appBox .swiper-container{width: 1000px; height:600px; overflow:visible;}
 .appBox .swiper-container img{width: 100%;}
 .appBox .swiper-container .swiper-slide{width: 333px; height: 592px;}
